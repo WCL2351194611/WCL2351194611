@@ -1,4 +1,4 @@
-## Hi there 👋
+## Please enjoy the homepage effect 👋
 
 <!--
 **WCL2351194611/WCL2351194611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
